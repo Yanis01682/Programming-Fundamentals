@@ -1,0 +1,6 @@
+5
+inbox
+copyto 1
+add 1
+outbox
+jump 1
