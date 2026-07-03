@@ -1,4 +1,4 @@
-﻿// 庄  坚2024010695
+﻿// 庄  坚
 
 #include <Windows.h>
 #include <iostream>
@@ -2413,3 +2413,4 @@ void custom()
 	cout << "\033c";
 	pre();
 }
+
