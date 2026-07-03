@@ -1,17 +1,17 @@
-﻿# Programming Fundamentals
+# Programming Fundamentals
 
-Course-related files for Tsinghua University **Programming Fundamentals**, Fall 2024.
-
-This repository is a cleaned archive of my course materials, homework-related files, notes, and project files where appropriate. Oversized files, build artifacts, archives, and files with obvious personal information in their filenames are intentionally omitted.
+Course-related files and project code for Tsinghua University **Programming Fundamentals**, Fall 2024.
 
 ## Contents
 
-- Course: 程序设计基础
-- Term: Fall 2024
-- Visibility: public
+- `lectures/`: lecture and discussion slides
+- `course-info/`: course schedule and exam instructions
+- `project/`: course project code, report, and related assets
+
+Oversized archives and compiled binaries are intentionally omitted.
 
 ---
 
 # 程序设计基础
 
-这是 2024 秋季学期 **程序设计基础** 的课程相关文件整理。仓库主要用于个人归档和后续复习；明显包含个人信息的文件名、过大的视频/压缩包、编译产物等没有纳入仓库。
+这是 2024 秋季学期 **程序设计基础** 的课程相关文件和大作业整理。过大的压缩包、可执行文件和编译产物没有纳入仓库。
